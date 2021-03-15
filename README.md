@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://github.com/R3LI4NT/R3LI4NT/r3li4nt.png)
 
 <!--
 **R3LI4NT/R3LI4NT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
