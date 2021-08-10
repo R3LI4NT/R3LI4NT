@@ -6,6 +6,7 @@
 <img align="left" alt="CSS3" width="27px" src="https://www.picuino.com/_images/css3-logo.png" />
 <img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="PYTHON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
+<img align="left" alt="BASH" width="26px" src="https://e7.pngegg.com/pngimages/981/872/png-clipart-computer-terminal-computer-icons-linux-console-terminal-emulator-linux-logo-desktop-wallpaper.png" />
 </br>
 </br>
 
