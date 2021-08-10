@@ -8,6 +8,7 @@
 <img align="left" alt="PYTHON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
 <img align="left" alt="BASH" width="27px" src="https://arquisoft.github.io/Trivial5a/images/services/terminal.png" />
 <img align="left" alt="LINUX" width="27px" src="https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png" />
+<img align="left" alt="WINDOWS" width="27px" src="https://logos-marcas.com/wp-content/uploads/2020/12/Windows-Logo.png" />
 </br>
 </br>
 
