@@ -4,7 +4,7 @@
 
 <img align="left" alt="HTML5" width="28px" src="https://www.atodocurso.com/sites/default/files/html.png" />
 <img align="left" alt="CSS3" width="28px" src="https://www.picuino.com/_images/css3-logo.png" />
-<img align="left" alt="JS" width="28px" src="https://eduliticas.com/wp-content/uploads/2018/01/Javascript-shield.png" />
+<img align="left" alt="JS" width="30px" src="https://eduliticas.com/wp-content/uploads/2018/01/Javascript-shield.png" />
 
 
 
