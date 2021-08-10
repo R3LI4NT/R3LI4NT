@@ -1,22 +1,7 @@
 ![r3li4nt](https://user-images.githubusercontent.com/75953873/111233290-7c961d00-85cb-11eb-982b-1cdfb0396225.png)
 
-###  Tecnologías
-</br>
-</br>
-<img align="left" alt="HTML5" width="27px" src="https://www.atodocurso.com/sites/default/files/html.png" />
-<img align="leftr" alt="CSS3" width="27px" src="https://www.picuino.com/_images/css3-logo.png" />
-<img align="left" alt="BOOTSTRAP" width="27px" src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" />
-<img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-<img align="left" alt="PYTHON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
-<img align="left" alt="BASH" width="27px" src="https://arquisoft.github.io/Trivial5a/images/services/terminal.png" />
-<img align="left" alt="PHOTOSHOPCS6" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" />
-<img align="left" alt="LINUX" width="27px" src="https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png" />
-<img align="left" alt="WINDOWS" width="25px" src="https://iconape.com/wp-content/files/gl/353404/svg/353404.svg" />
-</br>
-</br>
-</br>
-</br>
-</br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 #### Github Stats
 
