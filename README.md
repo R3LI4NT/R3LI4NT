@@ -3,7 +3,7 @@
 ### Technologies
 
 [<img align="left" alt="HTML5" width="26px" src="https://www.atodocurso.com/sites/default/files/html.png" />]
-[<img align="left" alt="CSS3" width="15px" src="https://www.desarrollolibre.net/public/images/example/css/css3.svg" />]
+[<img align="left" alt="CSS3" width="20px" src="https://www.desarrollolibre.net/public/images/example/css/css3.svg"/>]
 
 
 #### Github Stats
