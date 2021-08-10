@@ -2,5 +2,6 @@
 
 #### Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3li4nt&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3li4nt&show_icons=true&theme=radical)
+
 
