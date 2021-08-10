@@ -11,7 +11,11 @@
 <img align="left" alt="PHOTOSHOPCS6" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png" />
 <img align="left" alt="LINUX" width="27px" src="https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png" />
 <img align="left" alt="WINDOWS" width="25px" src="https://iconape.com/wp-content/files/gl/353404/svg/353404.svg" />
-
+</br>
+</br>
+</br>
+</br>
+</br>
 #### Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3li4nt&show_icons=true&theme=merko)
