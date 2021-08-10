@@ -7,7 +7,7 @@
 <img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="PYTHON" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
 <img align="left" alt="BASH" width="27px" src="https://arquisoft.github.io/Trivial5a/images/services/terminal.png" />
-<img align="left" alt="LINUX" width="40px" src="https://img.icons8.com/color/452/linux--v1.png" />
+<img align="left" alt="LINUX" width="40px" src="https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png" />
 </br>
 </br>
 
