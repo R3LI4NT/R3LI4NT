@@ -12,7 +12,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3li4nt&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/r3li4nt=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
