@@ -12,4 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3li4nt&show_icons=true&theme=merko)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=r3li4nt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
