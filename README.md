@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3li4nt&theme=chartreuse-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3li4nt&theme=chartreuse-dark&layout=compact)](https://hackxcrack.net/foro/profile/R3L1ANT/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3li4nt&theme=chartreuse-dark&layout=compact)](https://github.com/R3LI4NT)
 
 
 
