@@ -20,7 +20,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=important)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-05122A?style=flat&logo=kalilinux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-05122A?style=flat&logo=kalilinux&logoColor=yellow)
 
 
 
