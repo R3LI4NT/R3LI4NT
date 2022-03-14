@@ -21,6 +21,7 @@
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=important)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=yellow)
 ![Kali](https://img.shields.io/badge/Kali_Linux-05122A?style=flat&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)
 
 
 
