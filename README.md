@@ -9,6 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3li4nt&theme=chartreuse-dark&layout=compact)](https://github.com/R3LI4NT)
 
+<a href="https://github.com/DoctorDraxter"><img src="https://img.shields.io/badge/-DoctorDraxter-black?logo=github&style=flat-square"/></a>
+
 
 
 
