@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/75953873/111233290-7c961d00-85cb-11eb-982b-1cdfb0396225.png"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="(https://readme-typing-svg.herokuapp.com?size=15&color=13F700&background=FF000000&lines=El+poder+del+usuario+radica+en+su+ANONIMATO."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=15&color=13F700&background=FF000000&lines=El+poder+del+usuario+radica+en+su+ANONIMATO."></a>
 </p>
 
 </br>
