@@ -2,9 +2,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=16&color=13F700&background=FF000000&lines=El+poder+del+usuario+radica+en+su+ANONIMATO%7C"></a>
 </p>
-
+<hr/>
 </br>
-
 
 ### ⭐ GITHUB STATS ⭐
 
