@@ -4,7 +4,7 @@
 </p>
 </br>
 
-Contact me: contact.r3li4nt@onionmail.org
+📧 Contact me: contact.r3li4nt@onionmail.org
 
 ### ⭐ GITHUB STATS ⭐
 
