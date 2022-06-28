@@ -4,7 +4,6 @@
 </p>
 </br>
 
-📧 Contact me: contact.r3li4nt@onionmail.org
 
 ### ⭐ GITHUB STATS ⭐
 
@@ -25,3 +24,6 @@
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=yellow)&nbsp;
 ![Kali](https://img.shields.io/badge/Kali_Linux-05122A?style=flat&logo=kalilinux&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
+
+
+📧 Contact me: contact.r3li4nt@onionmail.org
