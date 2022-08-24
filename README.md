@@ -30,4 +30,4 @@
 
 📧 Email: contact.r3li4nt@onionmail.org
 
-![](https://dcbadge.vercel.app/api/shield/341325991488258069)
+<img src="https://dcbadge.vercel.app/api/shield/341325991488258069" />
