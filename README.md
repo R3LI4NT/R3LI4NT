@@ -28,8 +28,6 @@
 
 **Contact me:**
 
-📧 Email: contact.r3li4nt@onionmail.org
+<img src="https://img.shields.io/badge/contact.r3li4nt@onionmail.org-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <img src="https://dcbadge.vercel.app/api/shield/341325991488258069" />
-
-<img src="https://img.shields.io/badge/contact.r3li4nt@onionmail.org-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
