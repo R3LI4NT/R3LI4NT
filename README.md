@@ -30,4 +30,4 @@
 
 <img src="https://img.shields.io/badge/contact.r3li4nt@onionmail.org-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-<img src="https://dcbadge.vercel.app/api/shield/341325991488258069" />
+<img src="https://img.shields.io/badge/R3LI4NT#1341-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
