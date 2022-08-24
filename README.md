@@ -32,4 +32,4 @@
 
 <img src="https://dcbadge.vercel.app/api/shield/341325991488258069" />
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=R3L4NT&logoColor=white" />
+<img src="https://img.shields.io/badge/R3LI4NT-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
