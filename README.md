@@ -26,4 +26,8 @@
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
 
 
-📧 Contact me: contact.r3li4nt@onionmail.org
+**Contact me:**
+
+📧 Email: contact.r3li4nt@onionmail.org
+
+![](https://dcbadge.vercel.app/api/shield/341325991488258069)
