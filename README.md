@@ -31,3 +31,5 @@
 📧 Email: contact.r3li4nt@onionmail.org
 
 <img src="https://dcbadge.vercel.app/api/shield/341325991488258069" />
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=R3L4NT&logoColor=white" />
