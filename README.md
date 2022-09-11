@@ -32,6 +32,3 @@
 <img src="https://img.shields.io/badge/contact.r3li4nt@onionmail.org-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 [![Discord](https://img.shields.io/badge/Discord-R3LI4NT%231341-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/R3LI4NT#1341)
-
-
-![](https://komarev.com/ghpvc/?username=R3LI4NT)
