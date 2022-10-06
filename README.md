@@ -32,3 +32,5 @@
 <img src="https://img.shields.io/badge/contact.r3li4nt@onionmail.org-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 [![Discord](https://img.shields.io/badge/Discord-R3LI4NT%231341-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/R3LI4NT#1341)
+
+[![HTB - R3LI4NT](https://img.shields.io/badge/HTB-R3LI4NT-9FEF00?style=for-the-badge&logo=Hack+The+Box)](https://app.hackthebox.com/profile/1231180)
