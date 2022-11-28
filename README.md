@@ -7,7 +7,7 @@
 
 ### ⭐ GITHUB STATS ⭐
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3li4nt&theme=chartreuse-dark&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=r3li4nt&theme=chartreuse-dark&show_icons=true)
 
 
 ## 🛠 Languages and Tools 🛠
