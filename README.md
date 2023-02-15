@@ -2,25 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=14&color=14FF00&lines=El+poder+del+usuario+radica+en+su+ANONIMATO%7C"></a>
 </p>
-</br>
-
-..............                                     root@R3LI4NT 
-            ..,;:ccc,.                             ------------ 
-          ......''';lxO.                           OS: Kali GNU/Linux Rolling x 
-.....''''..........,:ld;                           Host: VMware Virtual Platfor 
-           .';;;:::;,,.x,                          Kernel: 6.0.0-kali6-amd64 
-      ..'''.            0Xxoc:,.  ...              Uptime: 1 hour, 28 mins 
-  ....                ,ONkc;,;cokOdc',.            Packages: 2647 (dpkg) 
- .                   OMo           ':ddo.          Shell: zsh 5.9 
-                    dMc               :OO;         Resolution: 1920x1080 
-                    0M.                 .:o.       WM: Xfwm4 
-                    ;Wd                            Theme: Kali-Dark [GTK2], adw 
-                     ;XO,                          Icons: Flat-Remix-Blue-Dark  
-                       ,d0Odlc;,..                 Terminal: xfce4-terminal 
-                           ..',;:cdOOd::,.         Terminal Font: Monospace 12 
-                                    .:d;.':;.       
-                                       'd,  .'     
-                                         ;l   ..   
+</br>  
 
 
 ### ⭐ GITHUB STATS ⭐
