@@ -4,8 +4,6 @@
 </p>
 </br>  
 
-<h1 align="center"><img src="https://github.com/R3LI4NT/R3LI4NT/assets/75953873/973cb3c1-931f-4160-ba62-c8c9967fec39"></h1>
-
 ### ⭐ GITHUB STATS ⭐
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=r3li4nt&theme=chartreuse-dark&show_icons=true)
