@@ -4,7 +4,7 @@
 </p>
 </br>  
 
-### ⭐ GITHUB STATS ⭐
+#### ⭐ GITHUB STATS ⭐
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=r3li4nt&theme=chartreuse-dark&show_icons=true)
 
