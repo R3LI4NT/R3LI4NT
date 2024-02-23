@@ -28,4 +28,4 @@
 
 **Contact me:**
 
-<img src="https://img.shields.io/badge/contact.r3li4nt@onionmail.org-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/R3LI4NT.contact@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
