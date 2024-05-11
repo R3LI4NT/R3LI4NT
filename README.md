@@ -3,9 +3,9 @@
 
   <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=R3LI4NT&style=for-the-badge&color=green" alt=""/>
-</div>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=14&width=435&color=14FF00&lines=Cuanto+m%C3%A1s+silencioso+te+vuelves%2C+m%C3%A1s+puedes+o%C3%ADr."></a>
+</div>
 </p>
 </br>  
 
