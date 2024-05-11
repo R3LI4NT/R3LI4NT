@@ -1,5 +1,10 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/75953873/111233290-7c961d00-85cb-11eb-982b-1cdfb0396225.png"></h1>
 <p align="center">
+
+  <div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=R3LI4NT&style=for-the-badge&color=green" alt=""/>
+</div>
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=14&width=435&color=14FF00&lines=Cuanto+m%C3%A1s+silencioso+te+vuelves%2C+m%C3%A1s+puedes+o%C3%ADr."></a>
 </p>
 </br>  
@@ -23,10 +28,6 @@
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=yellow)&nbsp;
 ![Kali](https://img.shields.io/badge/Kali_Linux-05122A?style=flat&logo=kalilinux&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=R3LI4NT&style=for-the-badge&color=green" alt=""/>
-</div>
 
 <h1 align="center"></h1>
 
