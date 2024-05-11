@@ -24,7 +24,9 @@
 ![Kali](https://img.shields.io/badge/Kali_Linux-05122A?style=flat&logo=kalilinux&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
 
-![](https://komarev.com/ghpvc/?username=R3LI4NT)
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=R3LI4NT&style=for-the-badge&color=green" alt=""/>
+</div>
 
 <h1 align="center"></h1>
 
