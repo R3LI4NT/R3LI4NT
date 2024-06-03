@@ -21,13 +21,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=1572B6)&nbsp; 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)&nbsp; 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![VEGASPro](https://img.shields.io/badge/-VEGASPro-05122A?style=flat&logo=vega)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github&logoColor=white)&nbsp; \
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=important)&nbsp;
-![VMware](https://img.shields.io/badge/VMware-05122A?style=flat&logo=vmware&logoColor=white)&nbsp;
+![VMware](https://img.shields.io/badge/VMware-05122A?style=flat&logo=vmware&logoColor=ECD53F)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=yellow)&nbsp;
 ![Kali](https://img.shields.io/badge/Kali_Linux-05122A?style=flat&logo=kalilinux&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
