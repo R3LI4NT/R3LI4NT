@@ -23,8 +23,7 @@
 ![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash&logoColor=89E051)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)&nbsp; 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp; 
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![VEGASPro](https://img.shields.io/badge/-VEGASPro-05122A?style=flat&logo=vega)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github&logoColor=white)&nbsp; \
