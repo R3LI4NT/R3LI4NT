@@ -39,6 +39,6 @@
 
 **Contact me:**
 
-<img src="https://img.shields.io/badge/R3LI4NT.contact@proton.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/r3li4nt.contact@keemail.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 <img src="https://img.shields.io/static/v1?label=Discord&message=R3LI4NT%231341&color=788BC5&style=for-the-badge" />
