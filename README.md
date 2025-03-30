@@ -28,7 +28,6 @@
 ![VEGASPro](https://img.shields.io/badge/-VEGASPro-05122A?style=flat&logo=vega)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github&logoColor=white)&nbsp; \
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=important)&nbsp;
 ![VMware](https://img.shields.io/badge/VMware-05122A?style=flat&logo=vmware&logoColor=ECD53F)&nbsp;
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-05122A?style=flat&logo=virtualbox&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=yellow)&nbsp;
