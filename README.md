@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
-</div>
+<div class="tenor-gif-embed" data-postid="16940502" data-share-method="host" data-aspect-ratio="64" data-width="100%"><a href="https://tenor.com/view/rgb-rainbow-line-gif-16940502">Rgb Rainbow GIF</a>from <a href="https://tenor.com/search/rgb-gifs">Rgb GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center"><img src="https://user-images.githubusercontent.com/75953873/111233290-7c961d00-85cb-11eb-982b-1cdfb0396225.png"></h1>
 
-<p align="center">
+<p align="center"> 
 
   <p align="center">【https://r3li4nt.github.io】</p>
 
