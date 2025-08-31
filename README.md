@@ -3,6 +3,10 @@
 
   <p align="center">【https://r3li4nt.github.io】</p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
+</div>
+
 
   <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=R3LI4NT&style=for-the-badge&color=green" alt=""/>
