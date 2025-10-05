@@ -43,4 +43,5 @@
 
 <img src="https://img.shields.io/badge/r3li4nt.contact@keemail.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-<img src="https://img.shields.io/static/v1?label=Discord&message=R3LI4NT%231341&color=788BC5&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=ToxID&message=C4151A2842650456EE053AA376145CBF4093E3AFC36A630957DFFFE61D19060CC2DF14F70058&color=788BC5&style=for-the-badge" />
+
