@@ -45,6 +45,6 @@
 
 <img src="https://img.shields.io/static/v1?label=ToxID&message=C4151A2842650456EE053AA376145CBF4093E3AFC36A630957DFFFE61D19060CC2DF14F70058&color=788BC5&style=for-the-badge" />
 
-<img width="480" height="480" alt="R3LI4NT" src="https://github.com/user-attachments/assets/d611b2d5-6644-47a6-88bd-1435f99bac85" />
+<img width="180" height="180" alt="R3LI4NT" src="https://github.com/user-attachments/assets/d611b2d5-6644-47a6-88bd-1435f99bac85" />
 
 
