@@ -44,8 +44,8 @@
 
 <img src="https://img.shields.io/badge/r3li4nt.contact@keemail.me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
-<!-- <img src="https://img.shields.io/static/v1?label=ToxID&message=123&color=788BC5&style=for-the-badge" />
+<img src="https://img.shields.io/static/v1?label=ToxID&message=08F21D19C314DB89700317A932C72EB26035AE002C34419E851730D751C579310AEB06CF4426&color=788BC5&style=for-the-badge" />
 
-<img width="180" height="180" alt="R3LI4NT" src="" />-->
+<img width="180" height="180" alt="R3LI4NT" src="https://github.com/user-attachments/assets/c5079888-db95-4941-bf1f-a886da6bafb5">
 
 
