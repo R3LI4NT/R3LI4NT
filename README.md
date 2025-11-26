@@ -5,7 +5,7 @@
 
   <p align="center">【https://r3li4nt.github.io】</p>
 
-
+  <img src="https://komarev.com/ghpvc/?username=R3LI4NT&style=for-the-badge&color=green" alt=""/>
   <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=R3LI4NT&style=for-the-badge&color=green" alt=""/>
 
