@@ -21,22 +21,78 @@
 
 ## 🛠 Languages and Tools 🛠
 
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
-![DotNet](https://img.shields.io/badge/C%23-05122A?style=flat&logo=dotnet&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-05122A?style=flat&logo=rust&logoColor=white)&nbsp;
-![PowerShell](https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=powershell&logoColor=5391FE)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp; 
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![VEGASPro](https://img.shields.io/badge/-VEGASPro-05122A?style=flat&logo=vega)&nbsp;
-![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=github&logoColor=white)&nbsp; \
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
-![VMware](https://img.shields.io/badge/VMware-05122A?style=flat&logo=vmware&logoColor=ECD53F)&nbsp;
-![VirtualBox](https://img.shields.io/badge/VirtualBox-05122A?style=flat&logo=virtualbox&logoColor=007ACC)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=yellow)&nbsp;
-![Kali](https://img.shields.io/badge/Kali_Linux-05122A?style=flat&logo=kalilinux&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=windows&logoColor=white)&nbsp;
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rust" alt="icon" width="55" height="55" />
+      <br>Rust
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48"/>
+      <br>Bootstrap
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48"/>
+      <br>Powershell
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
+      <br>VsCode
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=photoshop" alt="icon" width="55" height="55" />
+      <br>Photoshop
+    <td align="center" width="96"> 
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=vegaspro&theme=#242938" width="55" height="55"/>
+      <br>Vegas Pro
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
+      <br>Linux
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=windows" width="55" height="55"/>
+      <br>Windows
+    </td>
+    <td align="center"  width="96">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation&theme=#242938" width="55" height="55"/>
+      <br>VMware
+    </td>
+    <td align="center"  width="96">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=virtualbox&theme=#242938" width="55" height="55"/>
+      <br>VirtualBox
+    </td>
+    <td align="center"  width="96">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite&theme=#242938" width="55" height="55"/>
+      <br>Burp Suite
+    </td>
+  </tr>
+</table>
 
 
 <h1 align="center"></h1>
