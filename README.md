@@ -23,6 +23,7 @@
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=ffdd54)&nbsp;
 ![DotNet](https://img.shields.io/badge/C%23-05122A?style=flat&logo=dotnet&logoColor=white)
+![Rust](https://img.shields.io/badge/Python-05122A?style=flat&logo=rust&logoColor=ffdd54)&nbsp;
 ![Bash](https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash&logoColor=89E051)&nbsp;
 ![PowerShell](https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=powershell&logoColor=5391FE)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; 
