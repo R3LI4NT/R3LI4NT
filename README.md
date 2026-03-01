@@ -1,6 +1,8 @@
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/75953873/111233290-7c961d00-85cb-11eb-982b-1cdfb0396225.png"></h1>
 
+{ 0x52, 0x33, 0x4c, 0x49, 0x34, 0x4e, 0x54 }
+
 <p align="center"> 
 
   <p align="center">【https://r3li4nt.github.io】</p>
